@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .recipe {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            line-height: 1.5;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Recipe 1 -->
+    <div class="recipe">
+        <h1>Classic Chocolate Chip Cookies</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>2 1/4 cups all-purpose flour</li>
+            <li>1/2 teaspoon baking soda</li>
+            <li>1 cup unsalted butter, room temperature</li>
+            <li>1/2 cup granulated sugar</li>
+            <li>1 cup packed light-brown sugar</li>
+            <li>1 teaspoon salt</li>
+            <li>2 teaspoons pure vanilla extract</li>
+            <li>2 large eggs</li>
+            <li>2 cups semisweet and/or milk chocolate chips</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper.</li>
+            <li>In a small bowl, whisk together the flour and baking soda. Set aside.</li>
+            <li>In a large mixing bowl, beat the butter, granulated sugar, light-brown sugar, and salt until creamy.</li>
+            <li>Add the vanilla extract and eggs, one at a time, beating well after each addition.</li>
+            <li>Gradually add the flour mixture to the wet ingredients and mix until just combined.</li>
+            <li>Stir in the chocolate chips.</li>
+            <li>Drop rounded tablespoons of cookie dough onto the prepared baking sheet.</li>
+            <li>Bake for 10-12 minutes or until the edges are golden but the centers are still soft.</li>
+            <li>Allow the cookies to cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.</li>
+        </ol>
+    </div>
+
+    <!-- Recipe 2 -->
+    <div class="recipe">
+        <h1>Spaghetti Carbonara</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>12 oz spaghetti</li>
+            <li>3 large eggs</li>
+            <li>1 cup grated Pecorino Romano cheese</li>
+            <li>1 cup diced pancetta or guanciale</li>
+            <li>2 cloves garlic, minced</li>
+            <li>Salt and black pepper, to taste</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Cook spaghetti according to package instructions until al dente. Drain and set aside.</li>
+            <li>In a bowl, whisk together eggs and grated Pecorino Romano cheese. Season with black pepper.</li>
+            <li>In a large skillet, sauté diced pancetta or guanciale until crispy. Add minced garlic and sauté briefly.</li>
+            <li>Remove the skillet from heat and immediately add the cooked and drained spaghetti to the pan. Toss to combine.</li>
+            <li>Quickly pour the egg and cheese mixture over the pasta and toss vigorously to create a creamy sauce.</li>
+            <li>Serve your Spaghetti Carbonara with an extra sprinkle of Pecorino Romano cheese and additional black pepper.</li>
+        </ol>
+    </div>
+
+    <!-- Recipe 3 -->
+    <div class="recipe">
+        <h1>Caesar Salad</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>1 head of Romaine lettuce, chopped</li>
+            <li>1/2 cup Caesar salad dressing</li>
+            <li>1/2 cup croutons</li>
+            <li>1/4 cup grated Parmesan cheese</li>
+            <li>1 lemon, juiced</li>
+            <li>Salt and pepper, to taste</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>In a large bowl, combine chopped Romaine lettuce and croutons.</li>
+            <li>In a small bowl, whisk together Caesar salad dressing, lemon juice, grated Parmesan cheese, salt, and pepper.</li>
+            <li>Pour the dressing mixture over the lettuce and croutons.</li>
+            <li>Toss everything together until well coated.</li>
+            <li>Serve your Caesar salad immediately as a side dish or add grilled chicken for a complete meal.</li>
+        </ol>
+    </div>
+
+    <!-- Recipe 4 -->
+    <div class="recipe">
+        <h1>Grilled Salmon</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>4 salmon fillets</li>
+            <li>2 tablespoons olive oil</li>
+            <li>1 lemon, sliced</li>
+            <li>2 cloves garlic, minced</li>
+            <li>Salt and pepper, to taste</li>
+            <li>Fresh herbs (e.g., dill or parsley), for garnish</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Preheat your grill to medium-high heat.</li>
+            <li>Brush salmon fillets with olive oil and season with salt, pepper, and minced garlic.</li>
+            <li>Place lemon slices on top of the fillets.</li>
+            <li>Grill the salmon for about 4-5 minutes per side, or until it flakes easily with a fork.</li>
+            <li>Garnish with fresh herbs and serve immediately.</li>
+        </ol>
+    </div>
+
+    <!-- Recipe 5 -->
+    < class="recipe">
+        <h1>Tiramisu</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>6 egg yolks</li>
+            <li>3/4 cup granulated sugar</li>
+            <li>1 cup mascarpone cheese</li>
+            <li>1 1/2 cups heavy cream</li>
+            <li>1 cup brewed espresso, cooled</li>
+            <li>1/4 cup coffee liqueur (optional)</li>
+            <li>1 package ladyfingers (about 24)</li>
+            <li>Cocoa powder, for dusting</li>
+            <li>Dark chocolate shavings, for garnish</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>In a heatproof bowl, whisk together egg yolks and sugar over a pot of simmering water until pale and thick (about 10 minutes). Remove from heat and let it cool.</li>
+            <li>Stir in mascarpone cheese until smooth.</li>
+            <li>In a separate bowl, whip the heavy cream until stiff peaks form.</li>
+            <li>Gently fold the whipped cream into the mascarpone mixture until well combined.</li>
+            <li>In a shallow dish, combine brewed espresso and coffee liqueur (if using).</li>
+            <li>Dip each ladyfinger into the espresso mixture, ensuring they are soaked but not soggy.</li>
+            <li>Arrange a layer of soaked ladyfingers in the bottom of a serving dish.</li>
+            <li>Spread half of the mascarpone mixture over the ladyfingers.</li>
+            <li>Repeat with another layer of soaked ladyfingers and the remaining mascarpone mixture.</li>
+            <li>Cover and refrigerate for at least 4 hours or overnight to set.</li>
+            <li>Before serving, dust the top with cocoa powder and garnish with dark chocolate shavings.</li>
+            <li>Serve chilled and enjoy your homemade Tiramisu!</li>
+        </ol>
+    </div>
+</body>
+</html>
